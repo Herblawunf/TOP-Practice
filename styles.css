@@ -7,6 +7,12 @@ header {
     padding-right: 10%;
 }
 
+footer {
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+}
+
 .headLogo {
     color: white;
 }
@@ -14,4 +20,39 @@ header {
 .sec2 {
     display: flex;
     background-color: #1F2937;
+    align-items: center;
+    justify-content: space-between;
 }
+
+.sec4 {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.sec5 {
+    display: flex;
+    background-color: #3882F6;
+    border: 50px solid white;
+
+}
+
+.mainText{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: white;
+}
+
+.mainIMG {
+    width: 480px;
+    height: 270;
+    display: inline-block;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 8%;
+}
+
