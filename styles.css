@@ -146,6 +146,10 @@ footer {
     border: 5px solid #3882F6;
 }
 
+.copyright {
+    font-size: 10px;
+}
+
 @font-face {
     font-family: "cyberpunk";
     src: url(fonts/Cyberpunk.ttf) format("truetype");
