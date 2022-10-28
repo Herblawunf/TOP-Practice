@@ -98,7 +98,28 @@ footer {
     display: flex;
     background-color: #3882F6;
     border: 50px solid white;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 
+.CTA {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+}
+
+.sec5button {
+    width: 90px;
+    height: 25px;
+    border-radius: 5px;
+    border: 2px solid white;
+    color: white;
+    background-color: #3882F6;
 }
 
 .mainText{
