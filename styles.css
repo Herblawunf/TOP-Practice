@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.headLogo {
+    color: white;
+}
+
+.sec2 {
+    display: flex;
+    background-color: #1F2937;
+}
